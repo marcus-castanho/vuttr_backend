@@ -1,0 +1,11 @@
+{
+  "name": "vuttr",
+  "version": "1.0.0",
+  "description": "Very useful tools to remember - A challenge for bossabox hiring process",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Castanho",
+  "license": "MIT"
+}
